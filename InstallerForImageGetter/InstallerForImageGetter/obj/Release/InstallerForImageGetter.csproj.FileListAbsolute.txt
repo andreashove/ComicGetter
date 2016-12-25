@@ -1,0 +1,9 @@
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\bin\Release\InstallerForImageGetter.exe.config
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\bin\Release\InstallerForImageGetter.exe
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\bin\Release\InstallerForImageGetter.pdb
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.exe
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.pdb
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\bin\Release\Microsoft.Win32.TaskScheduler.dll
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\Interop.TaskScheduler.dll
+c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.csproj.ResolveComReference.cache
+C:\Users\andreas.hove\Documents\Visual Studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\andreas.hove\documents\visual studio 2015\Projects\uninstallerForImageGetter\uninstallerForImageGetter\bin\Debug\uninstallerForImageGetter.exe.config
+C:\Users\andreas.hove\Documents\Visual Studio 2015\Projects\uninstallerForImageGetter\uninstallerForImageGetter\bin\Debug\uninstallerForImageGetter.exe
+C:\Users\andreas.hove\Documents\Visual Studio 2015\Projects\uninstallerForImageGetter\uninstallerForImageGetter\bin\Debug\uninstallerForImageGetter.pdb
+C:\Users\andreas.hove\Documents\Visual Studio 2015\Projects\uninstallerForImageGetter\uninstallerForImageGetter\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\andreas.hove\Documents\Visual Studio 2015\Projects\uninstallerForImageGetter\uninstallerForImageGetter\obj\Debug\uninstallerForImageGetter.exe
+C:\Users\andreas.hove\Documents\Visual Studio 2015\Projects\uninstallerForImageGetter\uninstallerForImageGetter\obj\Debug\uninstallerForImageGetter.pdb
