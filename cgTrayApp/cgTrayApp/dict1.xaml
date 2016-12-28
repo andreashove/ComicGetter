@@ -4,8 +4,6 @@
 
     <!-- Globally declared notify icon -->
     <tb:TaskbarIcon x:Key="MyNotifyIcon"
-                    
-                  ToolTipText="hello world" />
-    
-    <SolidColorBrush x:Key="brush" Color="Red"/>
+                    ToolTipText="dicks" />
+
 </ResourceDictionary>
