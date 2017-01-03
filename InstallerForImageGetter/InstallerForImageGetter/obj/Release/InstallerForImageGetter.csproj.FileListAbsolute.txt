@@ -7,3 +7,8 @@ c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGet
 c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\Interop.TaskScheduler.dll
 c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.csproj.ResolveComReference.cache
 C:\Users\andreas.hove\Documents\Visual Studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.csprojResolveAssemblyReference.cache
+C:\Users\hove\Documents\GitHub\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\bin\Release\InstallerForImageGetter.exe.config
+C:\Users\hove\Documents\GitHub\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Release\Interop.TaskScheduler.dll
+C:\Users\hove\Documents\GitHub\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.csproj.ResolveComReference.cache
+C:\Users\hove\Documents\GitHub\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.exe
+C:\Users\hove\Documents\GitHub\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Release\InstallerForImageGetter.pdb
