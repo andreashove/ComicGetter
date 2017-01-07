@@ -28,8 +28,8 @@ namespace cgTrayApp
         {
             
             InitializeComponent();
-            MoveCurrentImageToFavs();
-            Environment.Exit(0);
+            //MoveCurrentImageToFavs();
+            //Environment.Exit(0);
             
             
         }

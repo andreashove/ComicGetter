@@ -23,3 +23,14 @@ C:\Users\andre\OneDrive\Projects\imageGetter\imageGetter\obj\Release\imageGetter
 C:\Users\andre\OneDrive\Projects\imageGetter\imageGetter\bin\Release\imageGetter.exe
 C:\Users\andre\OneDrive\Projects\imageGetter\imageGetter\bin\Release\imageGetter.pdb
 C:\Users\andre\OneDrive\Projects\imageGetter\imageGetter\obj\Release\imageGetter.csprojResolveAssemblyReference.cache
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Release\imageGetter.exe.config
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\obj\Release\Interop.TaskScheduler.dll
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\obj\Release\imageGetter.csproj.ResolveComReference.cache
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\obj\Release\imageGetter.exe
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\obj\Release\imageGetter.pdb
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Release\imageGetter.exe
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Release\imageGetter.pdb
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\obj\Release\imageGetter.csprojResolveAssemblyReference.cache

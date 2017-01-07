@@ -1,0 +1,17 @@
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\bin\Release\cgTrayApp.exe.config
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\bin\Release\cgTrayApp.exe
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\bin\Release\cgTrayApp.pdb
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\cgTrayApp.csprojResolveAssemblyReference.cache
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\dict1.baml
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\MainWindow.baml
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\MainWindow.g.cs
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\App.g.cs
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\cgTrayApp_MarkupCompile.cache
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\cgTrayApp.g.resources
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\cgTrayApp.Properties.Resources.resources
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\cgTrayApp.csproj.GenerateResource.Cache
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\cgTrayApp.exe
+C:\Users\hove\Documents\GitHub\ComicGetter\cgTrayApp\cgTrayApp\obj\Release\cgTrayApp.pdb
