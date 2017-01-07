@@ -64,8 +64,8 @@ namespace cgTrayApp
             targetFile = Path.Combine(targetPath, newFileName);
 
             File.Copy(sourceFile, targetFile, true);
-           
-            
+
+            System.Windows.MessageBox.Show("Saved successfully! \n(sorry for stupid popup)");
         }
         /*
 
