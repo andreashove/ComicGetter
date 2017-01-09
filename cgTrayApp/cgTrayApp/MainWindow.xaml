@@ -5,9 +5,6 @@
         Visibility="Hidden">
 
     <Grid>
-        <!-- 'System.Windows.Baml2006.TypeConverterMarkupExtension'  is caused by a non recognized icon in IconSource -->
-        <!-- http://stackoverflow.com/questions/12833294/provide-value-on-system-windows-baml2006-typeconvertermarkupextension-threw-a -->
-        <!--IconSource="C:\\ComicGetter\\bin\\cg.ico" -->
         <tb:TaskbarIcon
             IconSource="misc/cg.ico"
             ToolTipText="Click to save comic">
