@@ -34,3 +34,16 @@ C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Debug\Har
 C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
 C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
 C:\Users\hove\Documents\GitHub\ComicGetter\imageGetter\imageGetter\obj\Debug\imageGetter.csprojResolveAssemblyReference.cache
+C:\Git\ComicGetter\imageGetter\imageGetter\bin\Debug\imageGetter.exe.config
+C:\Git\ComicGetter\imageGetter\imageGetter\bin\Debug\imageGetter.exe
+C:\Git\ComicGetter\imageGetter\imageGetter\bin\Debug\imageGetter.pdb
+C:\Git\ComicGetter\imageGetter\imageGetter\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Git\ComicGetter\imageGetter\imageGetter\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Git\ComicGetter\imageGetter\imageGetter\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Git\ComicGetter\imageGetter\imageGetter\obj\Debug\imageGetter.csprojAssemblyReference.cache
+C:\Git\ComicGetter\imageGetter\imageGetter\obj\Debug\Interop.TaskScheduler.dll
+C:\Git\ComicGetter\imageGetter\imageGetter\obj\Debug\imageGetter.csproj.ResolveComReference.cache
+C:\Git\ComicGetter\imageGetter\imageGetter\obj\Debug\imageGetter.csproj.CoreCompileInputs.cache
+C:\Git\ComicGetter\imageGetter\imageGetter\obj\Debug\imageGetter.csproj.CopyComplete
+C:\Git\ComicGetter\imageGetter\imageGetter\obj\Debug\imageGetter.exe
+C:\Git\ComicGetter\imageGetter\imageGetter\obj\Debug\imageGetter.pdb

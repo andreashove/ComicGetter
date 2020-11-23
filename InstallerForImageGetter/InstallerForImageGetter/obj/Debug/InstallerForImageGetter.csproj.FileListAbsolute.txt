@@ -7,3 +7,13 @@ c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGet
 c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\Interop.TaskScheduler.dll
 c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\InstallerForImageGetter.csproj.ResolveComReference.cache
 c:\users\andreas.hove\documents\visual studio 2015\Projects\InstallerForImageGetter\InstallerForImageGetter\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\bin\Debug\InstallerForImageGetter.exe.config
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\bin\Debug\InstallerForImageGetter.exe
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\bin\Debug\InstallerForImageGetter.pdb
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\InstallerForImageGetter.csprojAssemblyReference.cache
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\Interop.TaskScheduler.dll
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\InstallerForImageGetter.csproj.ResolveComReference.cache
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\InstallerForImageGetter.csproj.CoreCompileInputs.cache
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\InstallerForImageGetter.csproj.CopyComplete
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\InstallerForImageGetter.exe
+C:\Git\ComicGetter\InstallerForImageGetter\InstallerForImageGetter\obj\Debug\InstallerForImageGetter.pdb
